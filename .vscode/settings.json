@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "cstddef": "c",
+        "limits": "c",
+        "work_thread.h": "c",
+        "tftp.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
